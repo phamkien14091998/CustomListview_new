@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         tps.add(new tp("qqw","2",R.drawable.a));
         tps.add(new tp("đ","3",R.drawable.a));
         tps.add(new tp("ggf","4",R.drawable.a));
-
+        tps.add(new tp("Ok","5",R.drawable.a));
 
 
     }
